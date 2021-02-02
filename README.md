@@ -1,7 +1,7 @@
 ## Hi there, I'm Pranjal Goyal 👋
 
 
-## I'm a Web Developer| Open Source and Flutter enthusiast | Content Writer !!
+## 🎓 I'm a Web Developer| Open Source and Flutter enthusiast | Content Writer !!
 
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python is my first love.
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter
 
 
-### Connect with me:
+### :email: Connect with me:
 
 [<img align="left" alt="pranjalg13 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pranjalg13.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,7 +40,14 @@
 </p>
 
 <br />
+
 ---
+
+## :blue_book: Blog posts:
+- [All GeeksForGeeks articles](https://auth.geeksforgeeks.org/user/PranjalGoyal/articles)
+
+---
+### :trophy: My Github Stats:
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
