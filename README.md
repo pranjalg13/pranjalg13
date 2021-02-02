@@ -1,4 +1,5 @@
-### Hi there, I'm Pranjal Goyal 👋
+## Hi there, I'm Pranjal Goyal 👋
+
 
 ## I'm a Web Developer| Open Source and Flutter enthusiast | Content Writer !!
 
@@ -9,6 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter
 
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,9 +20,10 @@
 
 <br />
 
+
 ### Languages and Tools:
 
-<p align="center">
+<p >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -37,7 +40,6 @@
 </p>
 
 <br />
-
 <br />
 
 ---
