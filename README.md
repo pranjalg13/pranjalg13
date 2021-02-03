@@ -1,4 +1,5 @@
-## Hi there, I'm Pranjal Goyal 👋
+## Hi there, I'm Pranjal Goyal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 ## 🎓 I'm a Web Developer| Open Source and Flutter enthusiast | Content Writer !!
@@ -23,7 +24,7 @@
 
 ## 🧰 Languages and Tools:
 
-<p>
+[<img align="left" alt="Visual Studio Code" width="26px" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />"][webdevplaylist]
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="28" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="28" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="28" style="vertical-align:top; margin:4px">
@@ -65,9 +66,7 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranjalg13&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranjalg13&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranjalg13&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranjalg13&hide=php&theme=tokyonight" />
-</a>
+
 </div>
 
 <!-- 
