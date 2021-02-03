@@ -62,11 +62,11 @@
 
 </br>
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranajlg13&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranajlg13&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranjalg13&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranjalg13&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranajlg13&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranajlg13&hide=php&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranjalg13&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranjalg13&hide=php&theme=tokyonight" />
 </a>
 </div>
 
