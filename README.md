@@ -61,12 +61,21 @@
 </details>
 
 </br>
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranajlg13&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pranajlg13&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranajlg13&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pranajlg13&hide=php&theme=tokyonight" />
+</a>
+</div>
 
+<!-- 
 <details>
-  <!-- <summary> GitHub Stats</summary> -->
+  <summary> GitHub Stats</summary>
   <img align="left" alt="pranjalg13 GitHub Stats" src="https://github-readme-stats.pranjalg13.vercel.app/api?username=pranjalg13&show_icons=true&hide_border=true&theme=tokyonight" />
 
-</details>
+</details> -->
 
 [website]: https://pranjalg13.github.io/MyCv/
 [linkedin]: https://www.linkedin.com/in/pranjal-goyal-9b911b170/
