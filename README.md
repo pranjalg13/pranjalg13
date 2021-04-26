@@ -6,7 +6,7 @@
 
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python is my first love.
-- 🌱 I’m currently learning everything #evolving (React in recent)🤣
+- 🌱 I’m currently learning everything #evolving (React and Nodejs in recent)🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter
