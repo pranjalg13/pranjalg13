@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything #evolving (React and Nodejs in recent)🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter
+- ⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter Games
 
 
 ## :email: Connect with me:
