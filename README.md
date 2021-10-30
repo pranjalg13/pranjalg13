@@ -2,7 +2,7 @@
 
 
 
-## 🎓 I'm a Web Developer| Open Source and Flutter enthusiast | Content Writer !!
+## 🎓 I'm a Software Developer| Open Source and Flutter enthusiast | Content Writer !!
 
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python is my first love.
