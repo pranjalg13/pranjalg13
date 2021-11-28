@@ -5,10 +5,10 @@
 ## 🎓 I'm a Software Developer| Open Source and Flutter enthusiast | Content Writer !!
 
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
-- 📚 Python is my first love.
+- 📚 Python is my first love, Java is Second :).
 - 🌱 I’m currently learning everything #evolving (React and Nodejs in recent)🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other content creators, actively looking for SDE internship
+- 🥅 2021 Goals: Contribute more to Open Source projects and Publish some apps to play store
 - ⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter Games
 
 
