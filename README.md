@@ -6,7 +6,8 @@
 
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python is my first love, Java is Second :).
-- 🌱 I’m currently learning everything #evolving (React and Nodejs in recent)🤣
+- 🌱 I’m currently learning everything #evolving
+- 💯 Built an e-learning product during my internship at Groww. Groww-Academy: https://groww.in/academy/explore
 - 👯 I’m looking to collaborate with other content creators, actively looking for SDE internship
 - 🥅 2021 Goals: Contribute more to Open Source projects and Publish some apps to play store
 - ⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter Games
