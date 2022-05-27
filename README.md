@@ -4,6 +4,7 @@
 
 ## 🎓 I'm a Software Developer| Open Source and Flutter enthusiast | Content Writer !!
 
+- 📚Learning and Transition to Web 3.0 ----->>>>>
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python is my first love, Java is Second :).
 - 🌱 I’m currently learning everything #evolving
