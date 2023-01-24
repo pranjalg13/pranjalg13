@@ -4,7 +4,6 @@
 
 ## 🎓 I'm a Software Developer at Groww | Learning and Growwing | Content Writer at Medium !!
 
-- 📚Learning and Transition to Web 3.0 ----->>>>>
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python is my first love, Java is Second :).
 - 🌱 I’m currently learning everything #evolving
