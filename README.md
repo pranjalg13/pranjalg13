@@ -4,6 +4,7 @@
 
 ## 🎓 I'm a Software Developer at Groww | Learning and Growwing | Content Writer at Medium !!
 
+- 📄 Founder and Writer at (https://5ways.me)
 - 🔭 Seeking Serendipity (😉 Just Google it for the meaning)
 - 📚 Python is my first love, Java is Second :).
 - 🌱 I’m currently learning everything #evolving
