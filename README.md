@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 
-📄 Founder and Writer at (https://5ways.me)<br>🔭 Seeking Serendipity<br>📚 Python is my first love, and Java is my Second :).<br>🥅 2023 Goals: Contribute more to Open Source projects [Contributing to @Appwrite]<br>🌱 I’m currently learning everything #evolving<br>👯 I’m looking to collaborate with other content creators<br>⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter Games
+📄 Blogs @ (https://5ways.me)<br>🔭 Seeking Serendipity<br>📚 Python is my first love, and Java is my Second :).<br>🥅 2023 Goals: Contribute more to Open Source projects [Contributing to @Appwrite]<br>🌱 I’m currently learning everything #evolving<br>👯 I’m looking to collaborate with other content creators<br>⚡ Fun fact: Love to play Table Tennis and FirstPerson shooter Games
 
 
 ## 🌐 Socials:
