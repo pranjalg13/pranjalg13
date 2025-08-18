@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=pranjalg13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🎓 I'm a Software Developer at Groww | Learning and Growwing | Open-Source and Flutter Enthusiast !!
+## 🎓 I'm a Software Developer at AngelOne (Ex-Groww) | Learning and Growing | Open-Source and Flutter Enthusiast !!
 
 
 ## 💫 About Me:
