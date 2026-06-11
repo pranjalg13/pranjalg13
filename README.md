@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=pranjalg13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🎓 I'm a Senior Software Developer at Camunda | Learning and Growing !!
+## 🎓 I'm a Senior Software Developer| Learning and Growing !!
 
 
 ## 🌐 Socials:
