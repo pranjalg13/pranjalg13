@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-goyal-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalgoyal13@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pranjalg13.github.io/portfolio-pranjal-goyal)
 
 ## 💻 Tech Stack
-- **Languages:** Java, Go, Python, SQL
-- **Frameworks:** Spring Boot, Gin, Django
+- **Languages:** Java, Python, SQL, Go
+- **Frameworks:** Spring Boot, Django, Gin
 - **Databases:** MySQL, PostgreSQL
 - **Infrastructure & Tools:** AWS, GCP, Docker, Kubernetes, Kafka, Camunda
 
