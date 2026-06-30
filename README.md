@@ -1,6 +1,5 @@
 ## Hi there, I'm Pranjal Goyal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![](https://visitcount.itsvg.in/api?id=pranjalg13&icon=0&color=0)](https://visitcount.itsvg.in)
-
 **Senior Software Engineer** with 5+ years of experience building distributed backend systems, specializing in Distributed Systems, Backend Development, Performance Engineering, and Workflow Automation
 
 ## 🌐 Connect with me
@@ -23,10 +22,8 @@
   - Built scalable features and automated verification systems, significantly improving conversion rates.
 
 ### 🎓 Internships
-
 - **Software Engineer Intern @ SuprDaily (Swiggy)** (Jan 2022 – Jun 2022)
   - Reduced checkout API latency by ~30% by replacing legacy database queries with a Redis caching layer.
-
 - **Software Engineer Intern @ Groww** (May 2021 – Nov 2021)
   - Built **Groww Academy**, an e-learning platform serving 1M+ users using Spring Boot, Python, and MySQL.
 
