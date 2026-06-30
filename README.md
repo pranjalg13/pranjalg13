@@ -4,13 +4,15 @@
 **Senior Software Engineer** with 5+ years of experience building distributed backend systems, specializing in Distributed Systems, Backend Development, Performance Engineering, and Workflow Automation
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-goyal-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalgoyal13@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pranjalg13.github.io/portfolio-pranjal-goyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-goyal-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalgoyal13@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pranjalg13.github.io/portfolio-pranjal-goyal)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pranjalgoyal13)
 
 ## 💻 Tech Stack
 - **Languages:** Java, Python, SQL, Go
 - **Frameworks:** Spring Boot, Django, Gin
 - **Databases:** MySQL, PostgreSQL
-- **Infrastructure & Tools:** AWS, GCP, Docker, Kubernetes, Kafka, Camunda
+- **Infrastructure & Tools:** AWS, GCP, Kubernetes, Kafka, Camunda
+- **Developer Tools:** Git, Claude Code, Retool
+- **Core Areas:** Distributed Systems, Backend Development, Performance Engineering, Workflow Automation, Open Source
 
 ## 💼 Experience
 - **Senior Software Engineer @ Camunda** (Nov 2025 - Present)
@@ -19,6 +21,15 @@
   - Engineered highly-concurrent backend flows, optimized workflows, and improved data security.
 - **Software Engineer @ Groww** (Jul 2022 - May 2024)
   - Built scalable features and automated verification systems, significantly improving conversion rates.
+
+### 🎓 Internships
+
+- **Software Engineer Intern @ SuprDaily (Swiggy)** (Jan 2022 – Jun 2022)
+  - Reduced checkout API latency by ~30% by replacing legacy database queries with a Redis caching layer.
+
+- **Software Engineer Intern @ Groww** (May 2021 – Nov 2021)
+  - Built **Groww Academy**, an e-learning platform serving 1M+ users using Spring Boot, Python, and MySQL.
+
 
 ## 🏆 Education & Highlights
 - **Education:** B.Tech in Computer Engineering @ PDEU (9.78 CGPA)
