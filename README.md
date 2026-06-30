@@ -1,7 +1,7 @@
 ## Hi there, I'm Pranjal Goyal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![](https://visitcount.itsvg.in/api?id=pranjalg13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Senior Software Engineer** specializing in Distributed Systems, Backend Development, Performance Engineering, and Workflow Automation.
+**Senior Software Engineer** with 5+ years of experience building distributed backend systems, specializing in Distributed Systems, Backend Development, Performance Engineering, and Workflow Automation
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-goyal-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalgoyal13@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pranjalg13.github.io/portfolio-pranjal-goyal)
